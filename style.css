@@ -1,0 +1,53 @@
+img {
+    height: 6em;
+    width: 8.8em;
+    margin-left: 3em;
+}
+
+.bg-img{
+    background-image: url(https://images.unsplash.com/photo-1597960194480-fc6b5e3181fd?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    min-height: 75dvh;
+    background-size: cover;
+}
+
+.playfair-display {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.textOffWhite {
+    color:lightgray
+}
+
+.textShadow {
+    text-shadow: 1px 1px 3px black;
+}
+
+button {
+    margin: 0px;
+    display: inline-block;
+}
+
+.cardOneBg {
+    background-image: url(https://images.unsplash.com/photo-1588506719696-9ab544226615?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    min-height: 30dvh;
+    background-size: cover;
+}
+
+.cardTwoBg {
+    background-image: url(https://images.unsplash.com/photo-1623177623442-979c1e42c255?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    min-height: 30dvh;
+    background-size: cover;
+}
+
+.cardThreeBg {
+    background-image: url(https://images.unsplash.com/photo-1623408859815-22534357b3db?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    min-height: 30dvh;
+    background-size: cover;
+}
+
+.footerText {
+    color:lightgray;
+    font-size: .8em;
+}
